@@ -4,4 +4,14 @@
   <artifactId>SpiceJet_Automation</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>SpiceJet_Automation</name>
+  
+      <dependencies>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.34.0</version>
+        </dependency>
+        <!-- Add other dependencies like TestNG or JUnit here -->
+    </dependencies>
+  
 </project>
