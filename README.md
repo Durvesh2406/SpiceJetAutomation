@@ -19,10 +19,10 @@ This project automates the flight search workflow on [SpiceJet](https://www.spic
 
 ## 📦 Project Structure
 SpiceJetCalendarAutomation/
-├── src/ │
-  └── com/ │ 
-    └── SpiceJet/ │
-      └── CalenderAutomation.java
-      ├── README.md
-      ├── .gitignore
-      └── pom.xml (optional if using Maven)
+├── src/
+│   └── com/
+│       └── spicejet/
+│           └── CalendarAutomation.java
+├── README.md
+├── .gitignore
+└── pom.xml   # Optional if using Maven
